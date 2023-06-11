@@ -1,5 +1,7 @@
 # Train Your Own ML Hand-Detection Model!
 
+Demo video: https://youtu.be/yboY9NyaT8s
+
 ## Why did I make this?
 
 Google provides a [hand detection model]([url](https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer#hand_landmark_model_bundle)) through [mediapipe](https://developers.google.com/mediapipe) but it only recognizes 7 gestures:
