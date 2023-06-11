@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
    - After all samples have been taken, please take your hand out of the frame of the camera so as to not contaminate other classes with bad data.
 
-3. Run main.py
+3. Run train_model.py
 
 ## For your convenience, a **demo.py** file is provided to test out your new model!
 
