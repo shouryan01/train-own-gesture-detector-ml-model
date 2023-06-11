@@ -2,6 +2,12 @@
 
 Demo video: https://youtu.be/yboY9NyaT8s
 
+Collecting Data
+<img width="648" alt="image" src="https://github.com/shouryan01/train-own-gesture-detector-ml-model/assets/32345320/83a7083a-5e0c-4430-b0b4-e471746e95c9">
+
+Testing Model
+<img width="648" alt="image" src="https://github.com/shouryan01/train-own-gesture-detector-ml-model/assets/32345320/fb5d515e-1780-48b3-b916-ac94355efacf">
+
 ## Why did I make this?
 
 Google provides a [hand detection model]([url](https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer#hand_landmark_model_bundle)) through [mediapipe](https://developers.google.com/mediapipe) but it only recognizes 7 gestures:
