@@ -15,7 +15,7 @@ Google provides a [hand detection model]([url](https://developers.google.com/med
 7 - 🤟 Love, label: ILoveYou
 ```
 
-They do provide documentation on [how to train custom models]([url](https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer/customize)) but for that you need access to a dataset of images. It is not always easy or possible to have access to the exact dataset you need.
+They do provide documentation on [how to train custom models]([url](https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer/customize))  but for that you need access to a dataset of images. It is not always easy or possible to have access to the exact dataset you need.
 
 That's why I created this repository. You can create a dataset using just your webcam, train a model and start using it right away!
 
