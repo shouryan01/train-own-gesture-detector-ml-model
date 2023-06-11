@@ -16,7 +16,7 @@ Google provides a [hand detection model]([url](https://developers.google.com/med
 ```
 
 
-They do provide documentation on how to train a custom model (https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer/customize) but for that you need access to a dataset of images. It is not always easy or possible to have access to the exact dataset you need.
+They do provide documentation on how to train a custom model (https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer/customize) but for that you need access to a dataset of images. It is not always easy or possible to have access to the exact dataset you need. Plus, the documentation is long and annoying to follow, and is not the easiest to follow along with.
 
 That's why I created this repository. You can create a dataset using just your webcam, train a model and start using it right away!
 
