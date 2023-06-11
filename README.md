@@ -1,4 +1,4 @@
-# Train Your Own ML Hand-Detection Model!
+# Train Your Own ML Hand Gesture Detection Model!
 
 Demo video: https://youtu.be/yboY9NyaT8s
 
