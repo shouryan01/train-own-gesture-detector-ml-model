@@ -2,7 +2,7 @@
 
 ## Why did I make this?
 
-Google provides a [hand detection model]([url](https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer#hand_landmark_model_bundle)) through [mediapipe](https://developers.google.com/mediapipe) but it only recognizes 8 gestures:
+Google provides a [hand detection model]([url](https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer#hand_landmark_model_bundle)) through [mediapipe](https://developers.google.com/mediapipe) but it only recognizes 7 gestures:
 
 ```
 0 - Unrecognized gesture, label: Unknown
